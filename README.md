@@ -24,3 +24,15 @@ Learning to make disc bot using discord.py
 - Add minigame
 
 - Cleanup slash commands
+
+
+
+
+## Dependencies
+
+- discord.py
+
+- yt-dlp
+
+- ffmpeg
+
